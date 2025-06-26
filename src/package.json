@@ -1,0 +1,9 @@
+{
+  "name": "week-3-react-js-assignment-meshack-mesh",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  }
+}
